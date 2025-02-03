@@ -57,10 +57,3 @@ Files -> Clone Repository -> URL deste repositório -> Build and Run.
 ## Inicialização do Banco de dados
 Como é utilizado um banco de dados em memória volátil, é necessário criar as tabelas após a inicialização do back end, que inicializará o Tomcat e o H2.
 É necessário seguir o script informado nos arquivos anexados.
-
-
-
-# Exemplo de execução do front end
-sh
-cd pasta-contendo-frontend
-npm start
